@@ -1,0 +1,6 @@
+{
+  "tts": false,
+  "face": false,
+  "model": "mistral-7b-openorca.Q4_0.gguf",
+  "supported_languages": ["python", "tsx", "tsc", "perl", "php", "ruby"]
+}
